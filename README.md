@@ -1,1 +1,1 @@
-# git-demo
+# EPAM kurs GIT
